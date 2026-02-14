@@ -1,2 +1,3 @@
-** Prueba de subida a GitHub de los repositorios **
-Estudiante: Juan Sebastiàn Peña Valderrama - 1105926197
+# Proyecto: Taller de Infraestructura y Redes con Vagrant - Computacion en la nube
+**Estudiante:** Juan Sebastián Peña Valderrama
+**ID:** 1105926197
